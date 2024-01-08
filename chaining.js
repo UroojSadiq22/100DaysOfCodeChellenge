@@ -18,16 +18,6 @@ let students = [
 console.log(students[5]?.age);
 
 
-
-
-
-
-
-
-
-
-
-
 // let arr = ["shazia" , "aliyah" , "bareera" , "kinza" , "sara" , "faria" , "dua" , "summaiyah" , "ammara" ];
 // let arr1 = arr.filter(strlength).map(strUppercase).sort();
 // function strlength(x){
@@ -53,12 +43,6 @@ console.log(students[5]?.age);
 // });
 
 // console.log(arr1);
-
-
-
-
-
-
 
 
 // let arr = [3 , -2.1 , 17.4 , -20 , 72.1352 , -36.632 , -16.9 , 42.791];
