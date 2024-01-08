@@ -5,20 +5,6 @@ function mergeName(x){
 }
 console.log(arr1)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 // let employees = [
 //     {firstName : "Farhan", lastName: "Khan"},
 //     {firstName : "Muhammad", lastName: "Ali"},
